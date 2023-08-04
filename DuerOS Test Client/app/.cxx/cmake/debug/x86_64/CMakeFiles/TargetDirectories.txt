@@ -1,3 +1,0 @@
-G:/DuerOS-Test/dcs-sdk-java/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
-G:/DuerOS-Test/dcs-sdk-java/app/.cxx/cmake/debug/x86_64/CMakeFiles/wakeup.dir
-G:/DuerOS-Test/dcs-sdk-java/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
