@@ -1,0 +1,7 @@
+[
+{
+  "directory": "G:/DuerOS-Test/dcs-sdk-java/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\androidSDK\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=E:/androidSDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/androidSDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dwakeup_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -I/src/main/cpp -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\wakeup.dir\\src\\main\\cpp\\wakeup.cpp.o -c G:\\DuerOS-Test\\dcs-sdk-java\\app\\src\\main\\cpp\\wakeup.cpp",
+  "file": "G:/DuerOS-Test/dcs-sdk-java/app/src/main/cpp/wakeup.cpp"
+}
+]

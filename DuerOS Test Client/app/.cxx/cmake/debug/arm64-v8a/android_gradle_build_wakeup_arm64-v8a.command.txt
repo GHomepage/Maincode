@@ -1,0 +1,7 @@
+Executable : E:\androidSDK\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+G:\DuerOS-Test\dcs-sdk-java\app\.cxx\cmake\debug\arm64-v8a
+wakeup
+jvmArgs : 
+

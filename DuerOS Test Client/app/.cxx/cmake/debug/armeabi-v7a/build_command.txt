@@ -1,0 +1,22 @@
+                Executable : E:\androidSDK\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HG:\DuerOS-Test\dcs-sdk-java\app
+-DCMAKE_CXX_FLAGS=-std=c++11 -frtti -fexceptions -I/src/main/cpp
+-DCMAKE_FIND_ROOT_PATH=G:\DuerOS-Test\dcs-sdk-java\app\.cxx\cmake\debug\prefab\armeabi-v7a\prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=E:\androidSDK\ndk\21.1.6352462\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=E:\androidSDK\ndk\21.1.6352462
+-DANDROID_PLATFORM=android-21
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DCMAKE_ANDROID_NDK=E:\androidSDK\ndk\21.1.6352462
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=G:\DuerOS-Test\dcs-sdk-java\app\build\intermediates\cmake\debug\obj\armeabi-v7a
+-DCMAKE_MAKE_PROGRAM=E:\androidSDK\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=21
+-BG:\DuerOS-Test\dcs-sdk-java\app\.cxx\cmake\debug\armeabi-v7a
+-GNinja
+jvmArgs : 
+
+Build command args:

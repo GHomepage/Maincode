@@ -1,0 +1,5 @@
+# ninja log v5
+0	1232	674644957	CMakeFiles/wakeup.dir/src/main/cpp/wakeup.cpp.o	e1e969a2ac4413f9
+1233	2320	674644958	../../../../build/intermediates/cmake/debug/obj/x86/libwakeup.so	9462c0944f5b05da
+230	1654	712529538	CMakeFiles/wakeup.dir/src/main/cpp/wakeup.cpp.o	e1e969a2ac4413f9
+1654	10540	712529547	../../../../build/intermediates/cmake/debug/obj/x86/libwakeup.so	9462c0944f5b05da
