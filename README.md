@@ -1,5 +1,5 @@
 # Exploring Skill Transfer of Mandarin-based Speech Misunderstanding on Chinese VPA
-This project shows the core code and main experimental data (the dataset and all experimental results are saved in: [Exploring-Skill-Transfer-of-Mandarin-based-Speech-Misunderstanding-on-Chinese-VPA-data](https://github.com/GHomepage/Exploring-Skill-Transfer-of-Mandarin-based-Speech-Misunderstanding-on-Chinese-VPA-data.git)) of the paper "Exploring Skill Transfer of Mandarin-based Speech Misunderstanding on Chinese VPA".
+This project shows the core code and main experimental data (the dataset and all experimental results are saved in: [Maindata](https://github.com/GHomepage/Maindata)) of the paper "Exploring Skill Transfer of Mandarin-based Speech Misunderstanding on Chinese VPA".
 
 # DuerOS Test Client
 Baidu has previously released a set of APIs that allow developers to deploy DuerOS on any IoT device. We use the [DuerOS DCS Android SDK](http://open.duer.baidu.com/doc/dueros-conversational-service/sdk_markdown), which is a development kit of intelligent device voice interaction software based on the DCS protocol launched by DuerOS, to build a client. DCS protocol is divided into transport layer, message format layer and end capability layer. DuerOS SDK supports voice wake-up, basic voice input and output, and more. 
